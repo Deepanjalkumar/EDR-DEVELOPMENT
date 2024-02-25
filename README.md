@@ -11,3 +11,5 @@
 4- Comp Assessment
 
 https://medium.com/falconforce/microsoft-defender-for-endpoint-internals-0x02-audit-settings-and-telemetry-1d0af3ebfb27
+
+https://nxlog.co/news-and-blog/posts/wmi-auditing
